@@ -14,7 +14,7 @@ class Game {
     }
     public void takeinputnumber() {
         Scanner sc = new Scanner(System.in);
-        System.out.println("SomeProblems.Guess the number: ");
+        System.out.println("Guess the number: ");
         inputnumber = sc.nextInt();
     }
 
